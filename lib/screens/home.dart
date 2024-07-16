@@ -77,7 +77,8 @@ class _HomeState extends State<Home> {
                   child: Text(
                     "Start",
                     style: TextStyle(
-                      color: Color.fromRGBO(255, 183, 130, 1).withOpacity(1),
+                      color:
+                          const Color.fromRGBO(255, 183, 130, 1).withOpacity(1),
                       fontSize: 20, /*fontWeight: FontWeight.bold*/
                     ),
                   ),
